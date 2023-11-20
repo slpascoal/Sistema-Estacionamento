@@ -1,0 +1,14 @@
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\bin\Debug\net7.0\Sistema-Estacionamento.exe
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\bin\Debug\net7.0\Sistema-Estacionamento.deps.json
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\bin\Debug\net7.0\Sistema-Estacionamento.runtimeconfig.json
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\bin\Debug\net7.0\Sistema-Estacionamento.dll
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\bin\Debug\net7.0\Sistema-Estacionamento.pdb
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.AssemblyInfo.cs
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.dll
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\refint\Sistema-Estacionamento.dll
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.pdb
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\Sistema-Estacionamento.genruntimeconfig.cache
+C:\Users\silas.lopes\Documents\Estudos\Sistema-Estacionamento\Estacionamento\obj\Debug\net7.0\ref\Sistema-Estacionamento.dll

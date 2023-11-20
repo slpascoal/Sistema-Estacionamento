@@ -3,13 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema-Estacionamento", "Common\Sistema-Estacionamento.csproj", "{D8DB03D1-D805-499B-B1F7-A0AD98DD2963}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro", "Cadastro\Cadastro.csproj", "{CF1F216E-4127-4A4A-9045-B44A9FF4258C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remover", "Remover\Remover.csproj", "{CB67B8E2-0A98-4401-A423-611C463FED6F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listar", "Listar\Listar.csproj", "{5D9B726B-6C34-4471-809C-353A84F0161C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema-Estacionamento", "Estacionamento\Sistema-Estacionamento.csproj", "{D8DB03D1-D805-499B-B1F7-A0AD98DD2963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
